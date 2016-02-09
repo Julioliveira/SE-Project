@@ -1,0 +1,18 @@
+.darkGreen{
+    background-color: #7A991A;
+}
+.mainDiv{
+    background-color: #FFFFFF;
+    width: 45%;
+    height: 100%;
+    padding-right: 11px;
+    text-align: left;
+    top: 25%;
+    right: 30%;
+    position: absolute;
+    border: dashed;
+    color: black;
+}
+.message{
+    padding-left: 15px;
+}
